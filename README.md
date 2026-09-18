@@ -1,100 +1,207 @@
-<h3 align="center">Medical Writer · Biomedical Scientist · Clinical Research</h3>
+<h3 align="center">Healthcare Data Analyst · Medical Writer · Biomedical Scientist · Clinical Research</h3>
 
 <p align="center">
-Transforming complex biomedical evidence into clear, accurate, and audience-focused scientific communication.
+Turning complex biomedical data into reliable analysis — and the clear reporting and scientific writing that make it useful.
 </p>
 
 ---
 
-## About
+## Profile
 
-My background combines **Biology, Bioinformatics, and Biostatistics** with over three years of experience in clinical and translational research, providing a strong foundation for interpreting biomedical evidence and communicating complex scientific information.
+I am a **Healthcare Data Analyst and Biomedical Scientist** with a background in Biology, Bioinformatics, and Biostatistics, and more than four years of experience in clinical and translational research.
 
-I collaborate with clinicians, epidemiologists, and bioinformaticians on multidisciplinary research projects involving clinical, epidemiological, and multi-omics data, contributing to evidence generation, scientific publications, and research communication.
+My work combines **clinical and epidemiological data analysis, biostatistics, data quality, scientific research, and scientific communication**. I have worked with clinical and multi-omics datasets in multidisciplinary research environments, collaborating with clinicians, epidemiologists, and bioinformaticians.
 
-As **first author, co-author of eight peer-reviewed publications, and reviewer for international biomedical journals**, I have developed strong expertise in critical appraisal of the scientific literature, evidence synthesis, and the communication of research findings to technical and multidisciplinary audiences.
+My current professional focus is **Healthcare Data Analysis and Clinical Data**, with particular interest in **clinical research, Real-World Evidence (RWE), healthcare analytics, and biomedical data**.
 
-I am expanding my expertise in **Medical Writing**, with a particular interest in publication writing, scientific communications, clinical research, and Real-World Evidence (RWE). I am also developing knowledge of the regulatory and publication environment, including **ICH-GCP, ICH E3, CONSORT, STROBE, PRISMA, and the ICMJE Recommendations**.
+Alongside data analysis, I maintain a parallel focus on **Medical Writing and Scientific Communication**, building on eight peer-reviewed publications and experience as a peer reviewer for international biomedical journals.
 
 ---
 
-## Medical Writing Portfolio
+## Selected Work
 
-This GitHub profile hosts a curated collection of practical medical writing projects developed from **real biomedical literature** and **peer-reviewed scientific publications**.
+This repository hosts practical projects combining **healthcare data analysis, statistics, clinical research, and scientific communication**.
 
-Each repository is designed to reproduce realistic medical writing tasks commonly performed in pharmaceutical companies, Contract Research Organizations (CROs), and Medical Communications agencies. Together, these projects demonstrate competencies in scientific writing, evidence synthesis, critical appraisal, and clinical research reporting.
+The projects are designed to demonstrate not only technical skills, but the complete analytical process: from raw data and quality assessment to analysis, visualization, interpretation, and communication.
 
-New projects will be added progressively as the portfolio continues to grow.
+| Project | Status | Focus |
+|----------|--------|-------|
+| [Clinical Dataset Cleaning & QA](https://github.com/Israelddh/clinical-data-cleaning-qa) | 🚧 In Progress | Data Quality · R · Reproducibility |
+| [Exploratory Data Analysis Report](https://github.com/Israelddh/exploratory-data-analysis) | 📅 Planned | EDA · Statistics · Visualization |
+| [Real-World Evidence Mini-Study](https://github.com/Israelddh/rwe-mini-study) | 📅 Planned | RWE · Epidemiology · Biostatistics |
+| [Interactive Clinical Dashboard](https://github.com/Israelddh/clinical-dashboard) | 📅 Planned | Power BI · Healthcare Analytics |
+| [Reproducible Analysis Pipeline](https://github.com/Israelddh/reproducible-analysis-pipeline) | 📅 Planned | R · Python · Git |
+| [Scientific Summary](https://github.com/Israelddh/scientific-summary) | Uploaded | Scientific Writing · Evidence Synthesis |
 
-| Project | Status | Primary Competency |
-|----------|--------|--------------------|
-| Scientific Summary | Uploaded | Scientific Writing & Evidence Synthesis |
+---
+
+## Healthcare Data Analysis
+
+### Data & Analytics
+
+- Clinical and epidemiological data analysis
+- Biomedical data analysis
+- Data cleaning and transformation
+- Data quality assessment
+- Exploratory data analysis
+- Statistical analysis
+- Data visualization
+- Healthcare analytics
+- Real-World Evidence (RWE)
+- Reproducible research
+
+### Tools
+
+- **R** — tidyverse, dplyr, tidyr, ggplot2
+- **SQL** — data extraction, transformation, joins, aggregation
+- **Power BI** — dashboards, reporting, data visualization
+- **Microsoft Excel** — data analysis and reporting
+- **Git / GitHub** — version control and reproducible workflows
+- **Python** — developing
+- **SAS** — developing
+
+### Clinical Data
+
+- Clinical research and clinical trials
+- Clinical Data Management
+- CRF / eCRF
+- EDC concepts
+- Data cleaning and query management
+- Data validation
+- Database lock
+- Clinical endpoints
+- CDISC
+- CDASH
+- SDTM
+- ADaM
+- ICH-GCP
+- Data integrity / ALCOA+
+
+---
+
+## Medical Writing & Scientific Communication
+
+My scientific writing work complements my data analysis background, particularly where **data interpretation, evidence appraisal, and clear communication** need to work together.
+
+Areas of interest include:
+
+- Medical writing
+- Scientific writing
+- Publication writing
+- Scientific communications
+- Literature appraisal
+- Evidence synthesis
+- Plain language summaries
+- Clinical research reporting
+
+### Writing Portfolio
+
+| Project | Status | Focus |
+|----------|--------|-------|
+| [Scientific Summary](https://github.com/Israelddh/scientific-summary) | Uploaded | Scientific Writing · Evidence Synthesis |
 | Plain Language Summary | 🚧 In Progress | Plain Language Communication |
-| Critical Appraisal | 📅 Planned | Critical Appraisal & Literature Evaluation |
+| Critical Appraisal | 📅 Planned | Literature Evaluation |
 | Literature Brief | 📅 Planned | Evidence Synthesis |
 | Medical Communications Project | 📅 Planned | Scientific Communication |
 | Clinical Study Report Synopsis | 📅 Planned | Clinical Research Reporting |
 
 ---
 
-## Core Expertise
+## Scientific & Research Background
 
-### Medical Writing & Scientific Communication
+My analytical work is supported by a broader scientific background spanning **biology, bioinformatics, biostatistics, clinical research, and scientific publishing**.
 
-- Scientific writing
-- Publication writing
-- Medical communications
-- Evidence synthesis
-- Plain language summaries
-- Scientific literature appraisal
-- Audience-focused scientific communication
+- **4+ years** in clinical and translational research
+- **8 peer-reviewed publications** as first author and co-author
+- **Peer reviewer** for international biomedical journals
+- Clinical, epidemiological, and multi-omics data
+- Multidisciplinary collaboration with clinical and scientific teams
+- Scientific reporting and research communication
 
-### Clinical Research & Evidence Generation
+---
 
-- Clinical and translational research
-- Epidemiological research
-- Real-World Evidence (RWE)
-- Study interpretation
-- Critical appraisal
-- Research reporting
+## Guidelines & Standards
 
-### Bioinformatics & Biostatistics
+- ICH-GCP
+- ICH E3
+- CONSORT
+- STROBE
+- PRISMA
+- ICMJE Recommendations
 
-- Bioinformatics
-- Biostatistics
-- Clinical and multi-omics data interpretation
-- Statistical analysis for biomedical research
-- Reproducible research workflows
+---
+
+## AI Literacy & Scientific Oversight
+
+I also explore the responsible use of AI in scientific and analytical workflows, with particular attention to **verification rather than automation without oversight**.
+
+- AI-assisted data analysis
+- AI output verification
+- Scientific fact-checking
+- Citation verification
+- Literature review assistance
+- LLM-assisted research workflows
+- AI quality control
 
 ---
 
 ## Professional Interests
 
-I am particularly interested in contributing to projects involving:
+I am particularly interested in opportunities involving:
 
-- Medical Writing
-- Publication Writing
-- Scientific Communications
+- Healthcare Data Analysis
+- Clinical Data Analysis
+- Biomedical Data
 - Clinical Research
 - Real-World Evidence (RWE)
-- Medical Education
-- Evidence Generation
-- Scientific Publications
+- Healthcare Analytics
+- Epidemiological Research
+- Clinical Data Management
+- Biostatistics
+- Scientific Communication
+- Medical Writing
 
-My goal is to combine expertise in biomedical research, quantitative data interpretation, and scientific communication to produce clear, accurate, and scientifically robust medical documents that support research, healthcare, and evidence-based decision-making.
+My aim is to combine **biomedical knowledge, quantitative analysis, clinical research experience, and scientific communication** to turn complex healthcare data and evidence into reliable, understandable, and useful outputs.
+
+---
+
+## Education
+
+**PhD in Biomedical Sciences & Public Health**  
+National University of Distance Education (UNED) · 2026–2030
+
+**MSc in Bioinformatics & Biostatistics**  
+Universitat Oberta de Catalunya · 2020–2022
+
+**BSc in Biology**  
+University of La Laguna · 2006–2013
+
+---
+
+## Publications
+
+**8 peer-reviewed publications**
+
+My complete publication record is available through ORCID:
+
+[ORCID ↗](https://orcid.org/0000-0001-5427-6019)
 
 ---
 
 ## Contact
 
 **Portfolio**  
-<https://israelddh.github.io>
+[israelddh.github.io](https://israelddh.github.io)
 
 **LinkedIn**  
-<https://www.linkedin.com/in/israel-duarte>
+[linkedin.com/in/israel-duarte](https://www.linkedin.com/in/israel-duarte)
 
 **ORCID**  
-<https://orcid.org/0000-0001-5427-6019>
+[orcid.org/0000-0001-5427-6019](https://orcid.org/0000-0001-5427-6019)
 
 **Email**  
-<mailto:israelddh@hotmail.com>
+[israelddh@hotmail.com](mailto:israelddh@hotmail.com)
+
+---
+
+*Israel David Duarte Herrera*
