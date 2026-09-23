@@ -1,53 +1,59 @@
-<h3 align="center">Healthcare Data Analyst · Medical Writer · Biomedical Scientist</h3>
+<h3 align="center">Scientific Writer · Medical Writer · Biomedical Scientist</h3>
 
 <p align="center">
-Turning complex biomedical data into reliable analysis — and the clear reporting that makes it useful.
+Communicating complex biomedical evidence clearly, accurately, and for the right audience.
 </p>
 
 ---
 
 ## About
 
-I am a **Healthcare Data Analyst and Biomedical Scientist** with a background in Biology, Bioinformatics, and Biostatistics, and 4+ years of experience in clinical and translational research.
+I am a **Biomedical Scientist and Scientific Writer** with a background in Biology, Bioinformatics, and Biostatistics, and 4+ years of experience in clinical and translational research.
 
-I work with **clinical, epidemiological, and multi-omics data**, combining data analysis, biostatistics, research, and scientific communication.
+My research experience combines **biomedical research, scientific writing, literature appraisal, evidence synthesis, data interpretation, and reproducible analytical workflows**.
 
-My current focus is **Healthcare Data Analysis, Clinical Data, and Real-World Evidence (RWE)**, with an emphasis on producing reproducible analyses and communicating results clearly to scientific and clinical audiences.
+I am currently developing my professional career in **Scientific and Medical Writing**, building on an established research-writing background and experience communicating complex biomedical information to scientific and clinical audiences.
 
-I am also a **first author and co-author of eight peer-reviewed publications** and have experience as a peer reviewer for international biomedical journals.
+I am a **first author and co-author of eight peer-reviewed publications** and have completed **four peer-review assignments** for international biomedical journals, including BMC Microbiology, Clinical Parkinsonism and Related Disorders, and Scientific Reports.
+
+My analytical background in biostatistics and biomedical data allows me to work with scientific evidence at its source, understand research methodology and statistical results, and translate complex findings into clear and structured written communication.
 
 ---
 
 ## Selected Work
 
-A growing collection of practical projects covering healthcare data analysis, statistics, visualization, reproducibility, and scientific communication.
+A growing collection of **independent scientific and medical writing samples** demonstrating different approaches to evidence-based communication.
+
+The portfolio includes scientific summaries, critical appraisal, literature synthesis, plain-language communication, clinical reporting, and medical communications.
 
 | Project | Focus |
 |---|---|
-| [Clinical Dataset Cleaning & QA](https://github.com/Israelddh/clinical-data-cleaning-qa) | Data Quality & Reproducibility |
-| [Exploratory Data Analysis](https://github.com/Israelddh/exploratory-data-analysis) | EDA & Visualization |
-| [Real-World Evidence Mini-Study](https://github.com/Israelddh/rwe-mini-study) | RWE & Biostatistics |
-| [Interactive Clinical Dashboard](https://github.com/Israelddh/clinical-dashboard) | Power BI & Healthcare Analytics |
-| [Reproducible Analysis Pipeline](https://github.com/Israelddh/reproducible-analysis-pipeline) | R/Python & Reproducibility |
 | [Scientific Summary](https://github.com/Israelddh/scientific-summary) | Scientific Writing & Evidence Synthesis |
+| [Critical Appraisal](https://github.com/Israelddh/critical-appraisal) | Research Methods & Evidence Appraisal |
+| [Literature Brief](https://github.com/Israelddh/literature-brief) | Literature Review & Evidence Synthesis |
+| [Plain Language Summary](https://github.com/Israelddh/plain-language-summary) | Patient & Public Communication |
+| [Clinical Study Report Synopsis](https://github.com/Israelddh/csr-synopsis) | Clinical Research Reporting |
+| [Medical Communications Project](https://github.com/Israelddh/medical-communications) | Medical Writing & Scientific Communication |
+
+These are **portfolio/speculative projects rather than commissioned client work**, created to demonstrate scientific writing, evidence appraisal, audience adaptation, and medical communication skills.
 
 ---
 
 ## Core Skills
 
-**Healthcare Data**  
-Clinical & epidemiological data analysis · Biostatistics · RWE · Data quality · EDA · Data visualization
+**Scientific Writing**  
+Scientific writing · Manuscript preparation · Scientific summaries · Literature review · Evidence synthesis · Critical appraisal · Scientific editing
 
-**Tools**  
-R · SQL · Python · Power BI · Excel · Git/GitHub
+**Medical Communication**  
+Medical writing · Plain-language communication · Audience adaptation · Clinical/scientific content · Evidence-based communication
 
-**Clinical Research**  
-Clinical research · Clinical data · Evidence generation · Reproducible workflows
+**Biomedical Research**  
+Clinical research · Translational research · Biomedical research · Biostatistics · Data interpretation · Research methodology
 
-**Scientific Communication**  
-Medical writing · Scientific writing · Literature appraisal · Evidence synthesis
+**Data & Reproducibility**  
+R · Python · Clinical & biomedical data · Data quality · Statistical analysis · Data visualization · Reproducible workflows · Git/GitHub
 
-**Guidelines**  
+**Guidelines & Standards**  
 ICH-GCP · ICH E3 · CONSORT · STROBE · PRISMA · ICMJE
 
 ---
@@ -56,7 +62,8 @@ ICH-GCP · ICH E3 · CONSORT · STROBE · PRISMA · ICMJE
 
 **4+ years** in clinical & translational research  
 **8** peer-reviewed publications  
-**Peer reviewer** for international biomedical journals  
+**1** first-author publication  
+**4** peer-review assignments for international biomedical journals  
 **BSc Biology · MSc Bioinformatics & Biostatistics · PhD Biomedical Sciences & Public Health**
 
 ---
