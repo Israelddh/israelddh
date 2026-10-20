@@ -1,8 +1,4 @@
-<h3 align="center"> Marine Biology · Meteorology · Fieldwork</h3>
-
-<p align="center">
-Marine biology, wildlife, meteorology, scientific observation and data analysis.
-</p>
+<h3 align="center"> Marine & Animal Biology · Exposome & Data Science</h3>
 
 ---
 
