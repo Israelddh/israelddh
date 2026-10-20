@@ -1,4 +1,4 @@
-<h3 align="center">Biologist · Marine Biology · Meteorology · Fieldwork</h3>
+<h3 align="center"> Marine Biology · Meteorology · Fieldwork</h3>
 
 <p align="center">
 Marine biology, wildlife, meteorology, scientific observation and data analysis.
